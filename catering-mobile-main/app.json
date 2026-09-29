@@ -19,25 +19,23 @@
       "bundleIdentifier": "com.dearbabs.catering"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.dearbabs.catering"
+      "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#ffffff" },
+      "package": "com.dearbabscatering"
     },
     "web": {
       "favicon": "./assets/favicon.png",
       "bundler": "webpack"
     },
-    "extra": {
-      "eas": {
-        "projectId": "your-project-id"
-      }
-    },
     "plugins": [
       "@react-native-community/datetimepicker",
       "expo-status-bar",
       "expo-web-browser"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "03a0e644-a19f-4fb5-bd6c-f6905b46ee24"
+      }
+    },
+    "owner": "appdev.adrian"
   }
 }
