@@ -87,9 +87,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.dearbabscatering"
+    namespace "com.dearbabs.catering"
     defaultConfig {
-        applicationId "com.dearbabscatering"
+        applicationId "com.dearbabs.catering"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
