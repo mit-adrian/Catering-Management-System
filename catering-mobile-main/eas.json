@@ -14,7 +14,7 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_PUBLIC_API_URL": "https://counting-motherboard-mit-nelson.trycloudflare.com/api"
+        "EXPO_PUBLIC_API_URL": "https://evaluate-perl-scripts-architecture.trycloudflare.com/api"
       }
     },
     "production": {
