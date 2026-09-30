@@ -14,7 +14,7 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_PUBLIC_API_URL": "https://evaluate-perl-scripts-architecture.trycloudflare.com/api"
+        "EXPO_PUBLIC_API_URL": "https://catering-api-w2i4.onrender.com/api"
       }
     },
     "production": {
